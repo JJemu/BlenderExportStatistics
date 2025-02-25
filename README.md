@@ -15,7 +15,7 @@ A Blender addon that gathers statistics for selected objects, including vertex c
 2. **Install the Addon in Blender:**
    - Open Blender.
    - Go to **Edit > Preferences > Add-ons**.
-   - Click **Install...** and select the `object_stats_exporter.py` file from the repository.
+   - Click **Install...** and select the `export_stats.py` file from the repository.
 
 ## Usage
 
